@@ -1,0 +1,1 @@
+export const nameConfig = ['正常', '两串', '断路', '短路', '热斑']
